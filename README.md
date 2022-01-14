@@ -1,8 +1,8 @@
-# React-ts-docker
+# React-web-docker
 
 ## Description
 
-* React + TypeScript development in docker
+* React development in docker
 * For Windows
 
 ## Initial Setting
